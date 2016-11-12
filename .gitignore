@@ -2,10 +2,10 @@
 *.apk
 *.ap_
 
-# Files for the ART/Dalvik VM
+# Files for the ART/Dalvik MK
 *.dex
 
-# Java class files
+# Java class files love
 *.class
 
 # Generated files
